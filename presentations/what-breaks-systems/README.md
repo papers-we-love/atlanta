@@ -2,5 +2,5 @@
 
 - PWL @ Atlanta [May 14, 2019](https://www.meetup.com/Papers-We-Love-Atlanta/events/bhvjlpyzhbsb)
 - Presented by [Sam Gassel](https://www.linkedin.com/in/samgassel/)
-- View [the slides](https://github.com/papers-we-love/atlanta/blob/master/presentations/what-breaks-systems/black-swans.pdf)
+- View [Sam's references](https://github.com/papers-we-love/atlanta/blob/master/presentations/what-breaks-systems/black-swans.pdf)
 - Original [presentation by Laura Nolan](https://www.usenix.org/conference/lisa18/presentation/nolan)
